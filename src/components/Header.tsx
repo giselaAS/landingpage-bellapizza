@@ -8,7 +8,7 @@ export function Header() {
           className="text-3xl text-red-600"
           style={{ fontFamily: "'Bebas Neue', sans-serif" }}
         >
-          Bella Pizza
+          Pizzaria
         </div>
 
         <nav className="hidden md:flex gap-8">
