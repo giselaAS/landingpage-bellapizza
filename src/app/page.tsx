@@ -15,7 +15,7 @@ export default function Home() {
       
       <footer className="bg-red-600 py-8">
         <div className="max-w-6xl mx-auto px-6 text-center text-white">
-          <p>&copy; 2024 Pizzaria. Todos os direitos reservados.</p>
+          <p>&copy; 2025 Pizzaria. Todos os direitos reservados.</p>
         </div>
       </footer>
     </div>
